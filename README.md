@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+﻿## Welcome to My GitHub Pages!!
 
-You can use the [editor on GitHub](https://github.com/wahyuadt/coba/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site is developed for completing the 1% extra of the Operating Systems course
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+However, this also becomes the trials for me to enhance my knowledge and making my own websites (the easy way :) )
+
+### Tutorials
+
+Comming soon :) 
+
+### Logs 
+
 
 ### Markdown
 
@@ -35,3 +42,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Or if you want a direct help from me, please feel free to contact me via e-mail of wahyuadt9@gmail.com
