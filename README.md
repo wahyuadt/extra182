@@ -10,6 +10,25 @@ Comming soon :)
 
 ### Logs 
 
+- Log 28 Desember 2018
+  1. [Log Pagi](2018/12/28/Log-Harian-Pagi.html)
+  2. [Log Sore](2018/12/28/Log-Harian-Sore.html)
+  3. [Log Malam](2018/12/28/Log-Harian-Malam.html)
+
+- Log 29 Desember 2018
+  1. [Log Siang](2018/12/29/Log-Harian-Siang.html)
+  2. [Log Malam](2018/12/29/Log-Harian-Malam.html)
+
+- Log 30 Desember 2018
+  1. [Log Pagi](2018/12/30/Log-Harian-Pagi.html)
+  2. [Log Malam](2018/12/30/Log-Harian-Malam.html)
+
+- Log 1 Januari 2019
+  1. [Log Pagi](2019/01/01/Log-Harian-Pagi.html)
+
+- Log 2 Januari 2019
+  1. [Log Malam](2019/01/02/Log-Harian-Malam.html)
+
 
 ### Markdown
 
