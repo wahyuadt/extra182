@@ -1,3 +1,5 @@
+# LOG 30 DESEMBER 2018 MALAM
+
 Location: Home
 Time : 18-22.30
 

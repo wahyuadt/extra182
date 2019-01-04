@@ -1,3 +1,6 @@
+# LOG 02 JANUARI 2019 MALAM
+
+
 Location: Home
 Time: 18-22
 

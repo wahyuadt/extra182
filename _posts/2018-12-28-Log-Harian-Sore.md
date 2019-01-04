@@ -1,3 +1,5 @@
+# LOG 28 DESEMBER 2018 SORE
+
 Location : R.1225 Gedung A fasilkom
 Time : 11-15
 

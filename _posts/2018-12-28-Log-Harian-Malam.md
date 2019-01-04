@@ -1,3 +1,5 @@
+# LOG 28 DECEMBER 2018 MALAM
+
 1. Still trying to figure out jekyll
 2. Have done localhost:4000
 

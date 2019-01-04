@@ -29,6 +29,12 @@ Comming soon :)
 - Log 2 Januari 2019
   1. [Log Malam](2019/01/02/Log-Harian-Malam.html)
 
+- Log 3 Januari 2019
+  1. [Log Malam](2019/01/03/Log-Harian-Malam.html)
+
+- Log 4 Januari 2019
+  1. [Log Siang](2019/01/04/Log-Harian-Siang.html)
+
 
 ### Markdown
 
