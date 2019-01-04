@@ -17,8 +17,7 @@ Time : 18-22.30
 
    Cayman is the remote theme i use (template theme from github)
 
-![img](https://github.com/wahyuadt/extra182/blob/master/_posts/img/Sketch3.png)
-![img](/assets/images/Sketch3.png)
+
 
 
 

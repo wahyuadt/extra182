@@ -15,7 +15,7 @@ Time: 7-9
 
 
 
-![img](/assets/images/Sketch2.png)
+
 
 2. The theme is still hasn't fixed yet (the theme: in the _config.yml is not finding remote theme)
 
