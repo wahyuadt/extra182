@@ -37,7 +37,9 @@ plugins:
   - jekyll-paginate
   - jekyll-remote-theme
   
-
+include:
+ - _navbar.md
+ 
 #jailed: false
 #gfm_quirks: paragraph_end
 
