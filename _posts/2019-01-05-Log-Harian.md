@@ -1,5 +1,5 @@
 ﻿Location : Warunk Upnormal Tebet
-Time : 8 - ~
+Time : 8 - 14
 
 
 1. Discussing about the Fasilkom182 github tutorial with Nardiena and Far

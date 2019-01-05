@@ -1,5 +1,8 @@
-# LOG 28 DECEMBER 2018 PAGI
+---
+url: "/PAGOOO/"
+---
 
+# LOG 28 DECEMBER 2018 PAGI
 
 Permisi
 - Yesterday was just falling asleep :(
