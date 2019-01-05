@@ -9,7 +9,7 @@ However, this also becomes the trials for me to enhance my knowledge and making 
 Comming soon :) 
 
 ### Logs 
-
+aaaa
 - Log 28 Desember 2018
   1. [Log Pagi](2018/12/28/Log-Harian-Pagi.html)
   2. [Log Sore](2018/12/28/Log-Harian-Sore.html)
