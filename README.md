@@ -1,4 +1,4 @@
-﻿## Welcome to My GitHub Pages!!
+## Welcome to My GitHub Pages!!
 
 This site is developed for completing the 1% extra of the Operating Systems course
 
@@ -35,6 +35,27 @@ aaaa
 - Log 4 Januari 2019
   1. [Log Siang](2019/01/04/Log-Harian-Siang.html)
 
+- Log 5 Januari 2019
+  [Log Harian](2019/01/05/Log-Harian.html)
+  
+- Log 6 Januari 2019
+  [Log Harian](2019/01/06/Log-Harian.html)
+ 
+- Log 8 Januari 2019
+  [Log Harian](2019/01/08/Log-Harian.html)
+  
+- Log 9 Januari 2019
+  [Log Harian](2019/01/09/Log-Harian.html)
+  
+- Log 10 Januari 2019
+  [Log Harian](2019/01/10/Log-Harian.html)
+  
+- Log 11 Januari 2019
+  [Log Harian](2019/01/11/Log-Harian.html)
+  
+- Log 12 Januari 2019
+  [Log Harian](2019/01/12/Log-Harian.html)
+  
 
 ### Markdown
 
