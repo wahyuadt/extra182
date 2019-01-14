@@ -7,3 +7,10 @@ Time : 11-17
 3. Fixing the image in the Tutorials
 4. Making the Tutorials to the My own project
 
+
+Time : 20 --
+
+1. Making a new repo for tutorials
+2. Creating the pages again step by step for tutorials (0-100%)
+
+
