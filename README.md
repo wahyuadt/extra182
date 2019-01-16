@@ -8,13 +8,15 @@ However, this also becomes the trials for me to enhance my knowledge and making 
 
 [Create Github Pages](tutorials/2019-01-09-GitHubPages.md).
 
-[Install jekyll and ruby](/tutorials/2019-01-09-RubyandJekyllInstallation.html)
+[Install Git To Windows](/tutorials/Install_Git_to_Windows.md) 
 
-[How to Integrate Your GitHub Repository with Jekyll](/tutorials/CommandsUsingJekyll.html).
+[Install jekyll and ruby](/tutorials/2019-01-09-RubyandJekyllInstallation.md)
 
-[Change Jekyll Theme](/tutorials/ChangeJekyllTheme.html)
+[How to Integrate Your GitHub Repository with Jekyll](/tutorials/CommandsUsingJekyll.md).
 
-  
+[Change Jekyll Theme](/tutorials/ChangeJekyllTheme.md)
+
+
 
 ### Markdown
 
