@@ -1,4 +1,4 @@
-## Welcome to My GitHub Pages!!
+﻿## Welcome to My GitHub Pages!!
 
 This site is developed for completing the 1% extra of the Operating Systems course
 
@@ -6,55 +6,15 @@ However, this also becomes the trials for me to enhance my knowledge and making 
 
 ### Tutorials
 
-Comming soon :) 
+[Create Github Pages](/tutorials/2019-01-09-GitHubPages.html).
 
-### Logs 
-aaaa
-- Log 28 Desember 2018
-  1. [Log Pagi](2018/12/28/Log-Harian-Pagi.html)
-  2. [Log Sore](2018/12/28/Log-Harian-Sore.html)
-  3. [Log Malam](2018/12/28/Log-Harian-Malam.html)
 
-- Log 29 Desember 2018
-  1. [Log Siang](2018/12/29/Log-Harian-Siang.html)
-  2. [Log Malam](2018/12/29/Log-Harian-Malam.html)
+[Install jekyll and ruby](/tutorials/2019-01-09-RubyandJekyllInstallation.html)
 
-- Log 30 Desember 2018
-  1. [Log Pagi](2018/12/30/Log-Harian-Pagi.html)
-  2. [Log Malam](2018/12/30/Log-Harian-Malam.html)
+[How to Integrate Your GitHub Repository with Jekyll](/tutorials/CommandsUsingJekyll.html).
 
-- Log 1 Januari 2019
-  1. [Log Pagi](2019/01/01/Log-Harian-Pagi.html)
+[Change Jekyll Theme](/tutorials/ChangeJekyllTheme.html)
 
-- Log 2 Januari 2019
-  1. [Log Malam](2019/01/02/Log-Harian-Malam.html)
-
-- Log 3 Januari 2019
-  1. [Log Malam](2019/01/03/Log-Harian-Malam.html)
-
-- Log 4 Januari 2019
-  1. [Log Siang](2019/01/04/Log-Harian-Siang.html)
-
-- Log 5 Januari 2019
-  [Log Harian](2019/01/05/Log-Harian.html)
-  
-- Log 6 Januari 2019
-  [Log Harian](2019/01/06/Log-Harian.html)
- 
-- Log 8 Januari 2019
-  [Log Harian](2019/01/08/Log-Harian.html)
-  
-- Log 9 Januari 2019
-  [Log Harian](2019/01/09/Log-Harian.html)
-  
-- Log 10 Januari 2019
-  [Log Harian](2019/01/10/Log-Harian.html)
-  
-- Log 11 Januari 2019
-  [Log Harian](2019/01/11/Log-Harian.html)
-  
-- Log 12 Januari 2019
-  [Log Harian](2019/01/12/Log-Harian.html)
   
 
 ### Markdown
