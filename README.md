@@ -6,8 +6,7 @@ However, this also becomes the trials for me to enhance my knowledge and making 
 
 ### Tutorials
 
-[Create Github Pages](/tutorials/2019-01-09-GitHubPages.html).
-
+[Create Github Pages](tutorials/2019-01-09-GitHubPages.html).
 
 [Install jekyll and ruby](/tutorials/2019-01-09-RubyandJekyllInstallation.html)
 

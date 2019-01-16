@@ -30,7 +30,7 @@ Then you will recieve an account verification link via Email
 
 (Time Estimation : less than 10 minutes)
 
-If you already logged in, the GitHub home pages will display the list of your owned repository. 
+If you already logged in, the GitHub home pages will display the list of your owned repository.
 Press the green New button on the top right
 
 
