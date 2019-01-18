@@ -6,7 +6,7 @@ However, this also becomes the trials for me to enhance my knowledge and making 
 
 ### Tutorials
 
-[Create Github Pages](tutorials/2019-01-09-GitHubPages.md).
+[Create Github Pages](tutorials/GitHubPages.md).
 
 [Install Git To Windows](/tutorials/Install_Git_to_Windows.md) 
 
