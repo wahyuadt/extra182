@@ -16,7 +16,13 @@ However, this also becomes the trials for me to enhance my knowledge and making 
 
 [Change Jekyll Theme](/tutorials/ChangeJekyllTheme.md)
 
+### About Me
 
+My name is Wahyu Ananda Duli Tokan, i am a Computer Science student at Fasilkom UI. i worked on this project since a month ago. i think i learn a lot from it and i want to share my knowledge with you.
+
+Here's my logs from making this project [My Logs](https://github.com/wahyuadt/extra182/tree/master/_posts)
+
+I also have my personal website here [Wahyu Ananda Duli Tokan](https://tumpeng1.herokuapp.com/)
 
 ### Markdown Cheatsheet
 
@@ -42,15 +48,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### About Me
 
-My name is Wahyu Ananda Duli Tokan, i am a Computer Science student at Fasilkom UI. i worked on this project since a month ago. i think i learn a lot from it and i want to share my knowledge with you.
-
-Here's my logs from making this project [My Logs](https://github.com/wahyuadt/extra182/tree/master/_posts)
-I also have my personal website here [Wahyu Ananda Duli Tokan](https://tumpeng1.herokuapp.com/)
 
 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-Or if you want a direct help from me, please feel free to contact me via e-mail of wahyuadt9@gmail.com [Wahyu Ananda Duli Tokan](http://wahyuadt9@gmail.com "My Email Address").
+Or if you want a direct help from me, please feel free to contact me via e-mail of wahyuadt9@gmail.com.
