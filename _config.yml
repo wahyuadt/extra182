@@ -25,10 +25,13 @@ encoding: UTF-8
 #theme: jekyll-theme-midnight
 
 
-title: extra182
-description: >
-    This site is developed for the extra 1% assignment of Operating Systems course 
-
+#title: extra182
+#description: >
+    #This site is developed for the extra 1% assignment of Operating Systems course 
+    
+title : GitHub Pages + Jekyll Tutorial
+description : This is a tutorial page for making a simple website
+    
 author: nyem
 # theme: jekyll-theme-midnight
 # github: [metadata]

@@ -1,4 +1,10 @@
-﻿## Welcome to My GitHub Pages!!
+﻿---
+title : GitHub Pages + Jekyll Tutorial
+description : This is a tutorial page for making a simple website
+---
+
+
+## Welcome to My GitHub Pages!!
 
 This site is developed for the aim to help people making their own web by using Jekyll/GitHub Pages.
 
